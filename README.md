@@ -1,60 +1,52 @@
 # 👋 Hey, I'm Piyush Sahu
 
-### `Business × Data × AI × Markets`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF66&center=true&vcenter=true&width=620&lines=Business+%C3%97+Data+%C3%97+AI+%C3%97+Markets;BBA+Student+%7C+IBM+Business+Analytics;Building+Real+World+Projects+with+Python+and+AI" alt="Typing SVG" />
+</p>
 
-> **I understand business from the shop floor.  
-> Now I'm learning to understand it through data and technology.**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/BBA-IBM-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-Learning-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Exploring-purple?style=for-the-badge" />
+<p align="center">
+  <b>Business mindset. Data-driven thinking. Technology-powered building.</b>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a **BBA student associated with IBM**, currently in my **3rd semester**, exploring the intersection of:
+I'm a **BBA student associated with IBM**, currently exploring the intersection of:
 
 **Business • Data Analytics • AI • Technology • Financial Markets**
 
-My interest in business started long before college.
+My interest in business started long before I started coding.
 
-Since around **Class 7**, I've been exposed to my father's **bath-fitting business**. Watching the business operate gave me practical exposure to things like:
+Since around **Class 7**, I've been exposed to my father's **bath-fitting business** and have seen how a real business works from the ground up.
 
-- 📦 Product sourcing
-- 🤝 Suppliers & customers
-- 📊 Inventory
-- 💰 Pricing
-- 🏪 Daily business operations
-- 📈 Business decision-making
+From watching products being sourced to understanding suppliers, customers, inventory, pricing and everyday decisions — I got interested in one simple question:
 
-Now I'm learning how to combine that real-world business understanding with **data and technology**.
+> **Can technology help businesses make better decisions?**
 
-> **Business gives me the problems.  
-> Data gives me the tools.  
-> Technology gives me the possibilities.**
+Now I'm learning to answer that question through **Data, Analytics, AI and Technology.**
 
 ---
 
-## ⚡ What I'm Exploring
+## 🏪 Real Business → Real Problems
 
 ```text
-                 BUSINESS
-                    │
-                    ▼
-              REAL PROBLEMS
-                    │
-                    ▼
-                  DATA
-                    │
-                    ▼
-             ANALYTICS / ML
-                    │
-                    ▼
-                    AI
-                    │
-                    ▼
-           BUSINESS SOLUTIONS
+        REAL BUSINESS
+              │
+              ▼
+       REAL PROBLEMS
+              │
+              ▼
+            DATA
+              │
+              ▼
+       DATA ANALYTICS
+              │
+              ▼
+        MACHINE LEARNING
+              │
+              ▼
+             AI
+              │
+              ▼
+      BUSINESS SOLUTIONS
